@@ -1,0 +1,15 @@
+Project topic:Ideal location for opening a restaurant in New York City
+
+Introduction:
+Owning a restaurant can be a dream to most of us, but the competition is acute. There are a lot of excellent chiefs outside.
+The location to set up the restaurant becomes the decisive factor to win the market.
+
+Foursquare location data is used to execute my idea. An ideal location should consider the potential passenger flow, 
+number of competitors, and race. The data is from Manhattan, New York.
+
+Data:
+New York location data from Foursquare is extracted along with Wikipedia to understand the population of different races in New York. 
+After analyzing the ideal area, it is found that Manhattan is a good place to start a restaurant business.
+Since the content of Wikipedia page is crowded with many sections ,and so it is difficult to extract specific area of data. 
+Demographics of Manhattan data is manually extracted from Wikipedia(https://en.wikipedia.org/wiki/Demographics_of_Manhattan).
+
